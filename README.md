@@ -1,5 +1,5 @@
 # estudantealurastart
-Bem vindo ao meu perfil
+Boas vindas ao meu perfil
 Meu nome é Ana júlia Carvalho
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
